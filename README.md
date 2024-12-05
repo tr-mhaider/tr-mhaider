@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Syed Murtaz Haider @tr-mhaider
 - 👀 I’m interested in creating web and mobile applications
-- 🌱 I’m currently learning NestJs
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Software Developer by day, Overthinker by night
 
