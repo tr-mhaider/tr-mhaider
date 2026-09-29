@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Syed Murtaz Haider, Backend and Infrastructure Engineer"/>
+<img src="./header.svg" width="100%" alt="Syed Murtaz Haider, Backend and Infrastructure Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Architecting+scalable+backend+systems;Designing+distributed+systems;Shipping+cloud+native+infrastructure;Building+for+reliability+and+scale" alt="Typing SVG"/>
@@ -133,6 +133,6 @@ flowchart LR
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+<img src="./footer.svg" width="100%" alt="Footer"/>
 
 </div>
