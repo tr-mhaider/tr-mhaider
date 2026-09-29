@@ -119,7 +119,7 @@ flowchart LR
 
 **Frontend and Mobile (when needed)**
 
-<img src="https://skillicons.dev/icons?i=react,angular,nuxtjs,tailwind,android,ionic&theme=dark&perline=6" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nuxtjs,tailwind&theme=dark&perline=6" alt="Frontend"/>
 
 </div>
 
