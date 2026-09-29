@@ -12,7 +12,7 @@
 <a href="https://twitter.com/essemmkayy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://instagram.com/essemmkayy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:mhaider@technologyrivers.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/tr-mhaider?tab=followers"><img src="https://img.shields.io/github/followers/essemmkayy?style=for-the-badge&logo=github&logoColor=white&color=2C5364&labelColor=0F2027" alt="GitHub followers"/></a>
+<a href="https://github.com/tr-mhaider?tab=followers"><img src="https://img.shields.io/github/followers/tr-mhaider?style=for-the-badge&logo=github&logoColor=white&color=2C5364&labelColor=0F2027" alt="GitHub followers"/></a>
 
 </div>
 
